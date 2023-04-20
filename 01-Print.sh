@@ -15,6 +15,6 @@ echo "Hello World"
 
 # \e[0m > is code to disable previously set color, otherwise color cotinue further text
 
-echo -e "\e[COL35 Hello World! \e[0m
+echo -e "\e[35mHello World! \e[0m"
 
 #now going to frontend and update color pattern commands
