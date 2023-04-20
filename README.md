@@ -5,7 +5,7 @@ shell scripting topics
 ...text
 1. Printing
 2. Commits
-3. variale
+3. variables
 4. functions
 5. conditions
 6. Loops
