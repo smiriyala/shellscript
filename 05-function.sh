@@ -17,3 +17,13 @@ xyz(){
 a=100
 xyz 123 234
 echo value of B = ${b}
+
+
+##return something from function
+abd(){
+    echo Hello
+    return 109
+    echo bye
+}
+
+abd

@@ -18,3 +18,7 @@ echo "Hello World"
 echo -e "\e[35mHello World! \e[0m"
 
 #now going to frontend and update color pattern commands
+
+
+#Multiline pring
+echo -e "first line \n second line"
